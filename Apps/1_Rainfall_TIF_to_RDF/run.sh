@@ -1,0 +1,1 @@
+python3 Main.py "/home/mmami/FhG/Projects/BETTER/Data/CHIRPS/2015/CHIRPSv2_SouthernAfrica_N30_daystotal_2015-01-01_2015-01-31.tif" "/home/mmami/FhG/Projects/BETTER/Hackathon/Apps/RainfallTIFToRDF/output.ttl"

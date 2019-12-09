@@ -1,0 +1,13 @@
+Country,Market,Commodity,Price Type,Year,Month,Price,Unit,Currency,Data Source
+Zimbabwe,All Markets Average,Maize,Retail,2015,01,,KG,USD,
+Zimbabwe,All Markets Average,Maize,Retail,2015,02,0.37,KG,USD,
+Zimbabwe,All Markets Average,Maize,Retail,2015,03,0.4,KG,USD,
+Zimbabwe,All Markets Average,Maize,Retail,2015,04,0.37,KG,USD,
+Zimbabwe,All Markets Average,Maize,Retail,2015,05,0.32,KG,USD,
+Zimbabwe,All Markets Average,Maize,Retail,2015,06,0.34,KG,USD,
+Zimbabwe,All Markets Average,Maize,Retail,2015,07,0.39,KG,USD,
+Zimbabwe,All Markets Average,Maize,Retail,2015,08,0.38,KG,USD,
+Zimbabwe,All Markets Average,Maize,Retail,2015,09,0.41,KG,USD,
+Zimbabwe,All Markets Average,Maize,Retail,2015,10,0.41,KG,USD,
+Zimbabwe,All Markets Average,Maize,Retail,2015,11,0.43,KG,USD,
+Zimbabwe,All Markets Average,Maize,Retail,2015,12,0.43,KG,USD

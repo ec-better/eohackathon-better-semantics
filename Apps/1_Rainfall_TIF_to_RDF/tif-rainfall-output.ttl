@@ -1,0 +1,11 @@
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix eg: <http://example.org/ns#> .
+@prefix dbpedia: <http://dbpedia.org/ontology/> .
+@prefix cbo: <http://comicmeta.org/cbo/> .
+
+%s:obs1a qb:Observation ;
+	qb:dataSet eg:dataset-prices  ;
+	 dbpedia:month   "1"  ;
+	 dbpedia:year   "2015"  ;
+	 cf-feature:rainfall_amount   "789587"  ;
+.
