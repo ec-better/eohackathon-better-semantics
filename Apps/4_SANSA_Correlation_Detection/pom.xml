@@ -6,7 +6,7 @@
   <inceptionYear>2008</inceptionYear>
   <properties>
     <scala.version>2.11.8</scala.version>
-    <jena.version>3.9.0</jena.version>
+    <jena.version>4.2.0</jena.version>
   </properties>
 
   <repositories>
